@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+::selection{
+  color:rgba(77, 210, 128, 0.953);
+}
