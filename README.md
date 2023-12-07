@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 ![alt text](https://github.com/Arage121/vite-docs-app/blob/master/src/assets/img.png?raw=true)
 
 A ui-based app to showcase the fantastic things that can be done with the help of framer-motion and tailwindcss
+[Hosted Link](https://jocular-torte-d9eed7.netlify.app)
